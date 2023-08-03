@@ -12,7 +12,6 @@ ReebsMP is a simple MP3 player web application. It allows users to play, pause, 
 - [Preview](#preview)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -38,10 +37,3 @@ ReebsMP is a basic MP3 player designed using HTML, CSS, and JavaScript. The appl
 
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the terms of the license.
-
----
-
-*Note: This is a simple example of a README.md file for the provided HTML code. You can include more detailed instructions, installation steps, dependencies, and other relevant information in your actual repository's README.md file. Don't forget to replace the `screenshot.png` placeholder with an actual screenshot of the web application and provide the live demo link to the hosted version, if available.*
