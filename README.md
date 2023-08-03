@@ -4,7 +4,7 @@ ReebsMP is a simple MP3 player web application. It allows users to play, pause, 
 
 ## Preview
 
-![ReebsMP Preview](mp.png)
+![ReebsMP Preview](mp.PNG)
 
 ## Table of Contents
 
